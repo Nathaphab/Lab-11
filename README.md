@@ -131,7 +131,7 @@ lib
 ---
 
 ## หน้าเพิ่มกิจกรรม
-<img width="654" height="925" alt="Screenshot 2569-03-13 at 14 59 57" src="https://github.com/user-attachments/assets/c7b2e97f-a4b9-4275-9cfe-c26d05f9dae3" />
+<img width="443" height="1014" alt="Image" src="https://github.com/user-attachments/assets/e2d99141-5bc2-412c-9ce3-d96f4ac7a634" />
 
 ---
 
