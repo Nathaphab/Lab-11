@@ -152,5 +152,5 @@ flutter run
 ---
 
 # 👨‍💻 ผู้พัฒนา
-Kittaphon Laemthai
+Nathaphab Saila 67543210054-2
 พัฒนาเพื่อการศึกษาในรายวิชา Mobile Application Development
