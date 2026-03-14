@@ -125,7 +125,7 @@ lib
 
 ## หน้า Home (รายการกิจกรรม)
 
-<img width="654" height="925" alt="image" src="https://github.com/user-attachments/assets/f74cedcb-496f-4e03-b11d-751460a81470" />
+<img width="442" height="1018" alt="Image" src="https://github.com/user-attachments/assets/85fc8260-c7cf-4c1f-9d18-67d179974a5c" />
 
 
 ---
